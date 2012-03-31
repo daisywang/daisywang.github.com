@@ -4,7 +4,7 @@
   <title><![CDATA[Daisy's Blog]]></title>
   <link href="http://daisywang.github.com/atom.xml" rel="self"/>
   <link href="http://daisywang.github.com/"/>
-  <updated>2012-03-31T17:02:23+08:00</updated>
+  <updated>2012-03-31T17:05:32+08:00</updated>
   <id>http://daisywang.github.com/</id>
   <author>
     <name><![CDATA[Daisy]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[love my family]]></title>
+    <link href="http://daisywang.github.com/blog/2012/03/31/love-my-family/"/>
+    <updated>2012-03-31T17:04:00+08:00</updated>
+    <id>http://daisywang.github.com/blog/2012/03/31/love-my-family</id>
+    <content type="html"><![CDATA[<p>crakers are very cool!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test post 2]]></title>
