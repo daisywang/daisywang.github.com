@@ -1,0 +1,11 @@
+---
+layout: post
+title: "test post 2"
+date: 2012-03-31 16:42
+comments: true
+categories: 
+---
+
+test post 2
+
+This is me!
