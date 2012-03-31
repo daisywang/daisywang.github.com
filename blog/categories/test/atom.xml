@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: test | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/test/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-03-31T16:42:59+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: test | Daisy's Blog]]></title>
+  <link href="http://daisywang.github.com/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://daisywang.github.com/"/>
+  <updated>2012-03-31T16:57:24+08:00</updated>
+  <id>http://daisywang.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Daisy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello, world]]></title>
-    <link href="http://yoursite.com/blog/2012/03/31/hello/"/>
+    <link href="http://daisywang.github.com/blog/2012/03/31/hello/"/>
     <updated>2012-03-31T16:23:00+08:00</updated>
-    <id>http://yoursite.com/blog/2012/03/31/hello</id>
+    <id>http://daisywang.github.com/blog/2012/03/31/hello</id>
     <content type="html"><![CDATA[<p>Hello, world!</p>
 
 <p>I'm daisy from Nanjing. I live with my husband.</p>
