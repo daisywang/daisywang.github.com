@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Daisy's Blog]]></title>
-  <link href="http://daisywang.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: family | Daisy's Blog]]></title>
+  <link href="http://daisywang.github.com/blog/categories/family/atom.xml" rel="self"/>
   <link href="http://daisywang.github.com/"/>
   <updated>2012-03-31T17:25:25+08:00</updated>
   <id>http://daisywang.github.com/</id>
